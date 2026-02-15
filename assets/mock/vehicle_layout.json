@@ -1,0 +1,69 @@
+{
+  "vehicleId": "Sajha A/C Sofa Seater",
+  "currency": "NPR",
+  "cells": [
+    [
+      { "type": "seat", "id": "A1", "price": 500, "isBooked": false },
+      { "type": "seat", "id": "A2", "price": 500, "isBooked": true },
+      { "type": "seat", "id": "A3", "price": 600, "isBooked": false },
+      { "type": "aisle" },
+      { "type": "seat", "id": "A4", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "A5", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "A6", "price": 600, "isBooked": false }
+    ],
+    [
+      { "type": "seat", "id": "B1", "price": 500, "isBooked": false },
+      { "type": "seat", "id": "B2", "price": 500, "isBooked": false },
+      { "type": "seat", "id": "B3", "price": 600, "isBooked": true },
+      { "type": "aisle" },
+
+      { "type": "seat", "id": "B4", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "B5", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "B6", "price": 600, "isBooked": false }
+    ],
+    [
+      { "type": "seat", "id": "C1", "price": 450, "isBooked": false },
+      { "type": "seat", "id": "C2", "price": 550, "isBooked": false },
+      { "type": "aisle" },
+      { "type": "empty" },
+      { "type": "empty" },
+      { "type": "seat", "id": "C3", "price": 550, "isBooked": false },
+      { "type": "seat", "id": "C4", "price": 550, "isBooked": true }
+    ],
+    [
+      { "type": "seat", "id": "D1", "price": 450, "isBooked": true },
+      { "type": "seat", "id": "D2", "price": 550, "isBooked": false },
+      { "type": "aisle" },
+      { "type": "empty" },
+      { "type": "empty" },
+      { "type": "seat", "id": "D3", "price": 550, "isBooked": false },
+      { "type": "seat", "id": "D4", "price": 550, "isBooked": false }
+    ],
+    [
+      { "type": "seat", "id": "E1", "price": 450, "isBooked": false },
+      { "type": "seat", "id": "E2", "price": 550, "isBooked": false },
+      { "type": "aisle" },
+      { "type": "empty" },
+      { "type": "empty" },
+      { "type": "seat", "id": "E3", "price": 550, "isBooked": false },
+      { "type": "seat", "id": "E4", "price": 550, "isBooked": false }
+    ],
+    [
+      { "type": "seat", "id": "F1", "price": 450, "isBooked": false },
+      { "type": "seat", "id": "F2", "price": 550, "isBooked": false },
+      { "type": "aisle" },
+      { "type": "empty" },
+      { "type": "empty" },
+      { "type": "seat", "id": "F3", "price": 550, "isBooked": true },
+      { "type": "seat", "id": "F4", "price": 550, "isBooked": false }
+    ],
+    [
+      { "type": "seat", "id": "G1", "price": 500, "isBooked": false },
+      { "type": "seat", "id": "G2", "price": 500, "isBooked": false },
+      { "type": "seat", "id": "G3", "price": 600, "isBooked": true },
+      { "type": "seat", "id": "G4", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "G5", "price": 600, "isBooked": false },
+      { "type": "seat", "id": "G6", "price": 600, "isBooked": false }
+    ]
+  ]
+}
