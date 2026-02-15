@@ -1,7 +1,7 @@
 # Ticket Booking App (Flutter) — Seat Selection
 
 A Flutter seat selection app built using **Clean Architecture**, **Bloc (flutter_bloc)**, and **Dependency Injection (GetIt)**.  
-Data is fetched via **GraphQL** (mocked locally using a custom Link) and rendered dynamically to support different seat layouts (e.g., 2+2, 1+2).
+Data is fetched via **GraphQL** (mocked locally using a custom Link) and rendered dynamically to support different seat layouts.
 
 ---
 
@@ -32,6 +32,6 @@ Data is fetched via **GraphQL** (mocked locally using a custom Link) and rendere
 ### 2) Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
-cd <PROJECT_FOLDER>
+git clone https://github.com/Shasmit/hyperce.git
+cd hyperce
 ```
